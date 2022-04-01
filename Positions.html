@@ -1,19 +1,31 @@
 <style>
   h2 {
     position: relative;
-    top: 100px;
-  /* 100 pixels away from the top */
-    right: 100px;
-  /* 100 pixels away from the right */
-    bottom: 100px;
-  /* 100 pixels away from the bottom */
-    left: 100px;
-  /* 100 pixels away from the left */
+    top: 100px; /* 100 pixels away from the top */
+    right: 100px; /* 100 pixels away from the right */
+    bottom: 100px; /* 100 pixels away from the bottom */
+    left: 100px; /* 100 pixels away from the left */
+  }
+  section {
+    position: relative;
+  }
+  #searchbar {
+    position: absolute;
+    top: 500px;
+    right: 500px;
   }
 </style>
 
 <body>
+  <h1>Welcome!</h1>
   <h1>On Being Well-Positioned</h1>
   <h2>Move me!</h2>
   <p>I still think the h2 is where it normally sits.</p>
+  <section>
+    <form id="searchbar">
+      <label for="search">Search:</label>
+      <input type="search" id="search" name="search">
+      <input type="submit" name="submit" value="Go!">
+    </form>
+  </section>
 </body>

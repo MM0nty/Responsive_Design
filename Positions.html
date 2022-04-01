@@ -1,4 +1,10 @@
 <style>
+  body {
+    min-height: 150vh;
+  }
+  nav li {
+    display: inline;
+  }
   h2 {
     position: relative;
     top: 100px; /* 100 pixels away from the top */
@@ -9,6 +15,13 @@
   section {
     position: relative;
   }
+  #navbar {
+    position: fixed;
+    top:0px;
+    left:0px;
+    width: 100%;
+    background-color: blue;
+  }
   #searchbar {
     position: absolute;
     top: 500px;
@@ -17,7 +30,16 @@
 </style>
 
 <body>
-  <h1>Welcome!</h1>
+  <header>
+    <h1>Welcome!</h1>
+      <nav id="navbar">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <p>I shift up when the #navbar is fixed to the browser window.</p>
   <h1>On Being Well-Positioned</h1>
   <h2>Move me!</h2>
   <p>I still think the h2 is where it normally sits.</p>

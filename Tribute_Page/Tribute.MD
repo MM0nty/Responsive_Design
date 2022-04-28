@@ -2,6 +2,6 @@ Tribute Page
 ------------
 
 
-A [Pen](https://codepen.io/mm0nty/pen/LYOEjvG) by [MM0nty](https://codepen.io/mm0nty) on [CodePen](https://codepen.io).
+A [Pen](https://codepen.io/mpv3/pen/eYemGOa) by [MM0nty](https://codepen.io/mm0nty) on [CodePen](https://codepen.io).
 
-[License](https://codepen.io/license/pen/LYOEjvG).
+[License](https://codepen.io/mpv3/pen/eYemGOa).

@@ -3,5 +3,6 @@ nav li {
 }
 
 #nav-bar {
-  position: fixed
+  position: fixed;
+  width: 100px;
 }

@@ -1,4 +1,13 @@
-nav li {
+@media only screen and (max-width: 1024px) {
+  body {
+    font-size: 21px;
+  }
+}
+
+body {
+  min-height: 150vh;
+}
+nav li  {
   display: inline;
 }
 
@@ -6,4 +15,11 @@ nav li {
   position: fixed;
   width: 100px;
   top: 0px;
+}
+form {
+  display: flex;
+  justify-content: center;
+}
+#video {
+  border: 5px black solid;
 }

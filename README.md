@@ -1,7 +1,6 @@
 # Responsive Web Design
 
-Personal solutions to activities from FreeCodeCamp's Responsive Web Design tutorials
-https://www.freecodecamp.org/learn/responsive-web-design/
-
-New UI and activities
+Personal solutions to activities from FreeCodeCamp's Responsive Web Design tutorials (with new UI and challenges)
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+Previous site (https://www.freecodecamp.org/learn/responsive-web-design/) obsolete

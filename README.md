@@ -1,7 +1,7 @@
 # Responsive Web Design
 
 
-### Currently under reorganisation (when I have time)
+### Currently under reorganisation
 
 Personal solutions to activities from FreeCodeCamp's Legacy Responsive Web Design tutorials https://www.freecodecamp.org/learn/responsive-web-design/
 
